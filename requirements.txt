@@ -1,0 +1,5 @@
+PyQt5==5.15.9
+requests==2.31.0
+numpy==1.26.0
+geopy==2.3.0
+PyOpenGL==3.1.7
